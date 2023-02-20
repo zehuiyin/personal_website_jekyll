@@ -7,9 +7,7 @@ This project was initiated after completing an assignment for [GGRC42](https://u
 
 By fitting these models, I was able to draw useful insights and provide explanations and interpretations of the results. Through this project, I aimed to showcase my skills in data analysis and modeling and demonstrate my understanding of logistic regression.
 
-The use of binary and multinomial logistic regression models allowed for the analysis of data with two or more outcome categories, which is particularly useful in many fields, including medicine, social sciences, and marketing. By applying these models to real-world datasets, I was able to gain practical experience in the field of data analysis and contribute to the advancement of this area.
-
-Overall, this project was a valuable learning experience that helped me to better understand the intricacies of logistic regression modeling and its applications in different fields.
+The use of binary and multinomial logistic regression models allowed for the analysis of data with two or more outcome categories, which is particularly useful in many fields, including medicine, social sciences, and marketing. By applying these models to real-world datasets, I was able to gain practical experience in the field of data analysis.
 
 <embed src="https://zehuiyin.github.io/files/Logistic_Regression.pdf" width="100%" height="800px" />
 <p style="text-align: left;">If the embedded PDF is not displayed properly, <a href="https://zehuiyin.github.io/files/Logistic_Regression.pdf" target="_blank">please click here.</a></p>
