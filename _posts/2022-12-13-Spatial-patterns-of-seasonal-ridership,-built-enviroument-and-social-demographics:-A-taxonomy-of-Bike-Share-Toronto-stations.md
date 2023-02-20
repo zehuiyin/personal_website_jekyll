@@ -8,6 +8,7 @@ This project was completed as part of an advanced GIS course, [GGRC30](https://u
 -	RQ1. What are the seasonal spatial pattern differences in Toronto bike-share trips at station levels?
 -	RQ2. What are the similarities and differences between the locations, trip count percentages, built environments, and social demographics of Toronto bike-share stations?
 <!-- readmore -->
+
 The first research question sought to examine the seasonal spatial pattern differences in Toronto bike-share trips at station levels. Through the use of spatial analysis techniques, the project aimed to identify any patterns or trends in the distribution of bike-share trips across different seasons.
 
 The second research question aimed to identify similarities and differences between the various bike-share stations in Toronto. The project analyzed a range of factors, including location, trip count percentages, built environments, and social demographics, to provide a taxonomy of the stations.
