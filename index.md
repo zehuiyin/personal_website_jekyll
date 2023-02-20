@@ -9,6 +9,7 @@ mathjax: true
 <p style="text-align: left;">I am an undergraduate student at the University of Toronto Scarborough (UTSC), where I am pursuing a major in Economics for Management Studies and a minor in GIS and Applied Statistics. As a research assistant in the Suburban Mobility Cluster in the Human Geography Department at UTSC, I am currently exploring ways to improve transportation accessibility and efficiency in suburban areas, especially in Scarborough, Ontario.
 
 My interests in spatial analysis and econometrics have inspired me to delve into examining the spatial patterns of social issues, with a particular focus on using GIS tools to visualize and analyze these patterns. With my extensive experience in R programming and proficiency in a variety of GIS software, such as ArcGIS Pro and ArcGIS Online, I am well-equipped to tackle complex spatial problems.
+
 Moreover, as a passionate transit enthusiast, I find myself constantly drawn to the topic of public transit and transportation. I enjoy riding buses and trains, and this interest has motivated me to explore ways of enhancing the accessibility and efficiency of public transit. I am eager to utilize my interdisciplinary background to further investigate public transit and transportation through GIS analysis and econometrics, with the aim of finding solutions to improve their functionality and accessibility.</p>
 &nbsp;
 &nbsp;
