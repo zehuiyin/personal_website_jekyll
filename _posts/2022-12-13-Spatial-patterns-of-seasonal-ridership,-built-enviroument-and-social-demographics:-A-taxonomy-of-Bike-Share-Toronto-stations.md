@@ -17,5 +17,7 @@ The second research question aimed to identify similarities and differences betw
 
 The project highlights the potential of GIS tools and techniques in analyzing and understanding complex spatial patterns and relationships. Through the analysis of the Bike Share Toronto system, the project provides valuable insights into the characteristics of the system and the factors that influence bike-share usage in the city.
 
+You can find codes used in this project by clicking <a href="https://github.com/zehuiyin/cluster_analysis_toronto_bikeshare" target="_blank">here</a>.
+
 <embed src="https://zehuiyin.github.io/files/Bikeshare_Toronto.pdf" width="100%" height="800px" />
 <p style="text-align: left;">If the embedded PDF is not displayed properly, <a href="https://zehuiyin.github.io/files/Bikeshare_Toronto.pdf" target="_blank">please click here.</a></p>
