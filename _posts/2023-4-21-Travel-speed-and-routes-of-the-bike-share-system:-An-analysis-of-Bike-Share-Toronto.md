@@ -11,7 +11,7 @@ This project was a part of [GGRC32](https://utsc.calendar.utoronto.ca/course/ggr
 -	RQ2. To what extent do the existing bike lanes complement the Bikeshare Toronto System?
 <!-- readmore -->
 
-
+To answer these two research questions, I simulated the shortest cycling paths between every pair of Toronto bike-share stations using the OpenStreetMap road network and the R5 routing engine. I estimated the average cycling speed within the system by calculating the seasonal average cycling speeds at each station. I also created the estimated travel flow by aggregating the simulated paths and visually comparing them with the existing bike lanes in Toronto. The project results showed that the average travelling speed in the bike-share system was at least 12 km/h and that the existing bike lanes did not complement the bike-share system well.
 
 You can find codes used in this project by clicking <a href="https://github.com/zehuiyin/travel_speed_and_routes_toronto_bikeshare" target="_blank">here</a>.
 
