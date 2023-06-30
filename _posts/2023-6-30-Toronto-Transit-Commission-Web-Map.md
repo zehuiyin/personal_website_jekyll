@@ -1,5 +1,5 @@
 ---
-title:  "Toronto Bike Share Web Map"
+title:  "Toronto Transit Commission Web Map"
 mathjax: true
 layout: post
 ---
