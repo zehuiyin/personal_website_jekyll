@@ -27,10 +27,20 @@ $$\star$$ Transit & Transportation Equality
 &nbsp;
 &nbsp;
 ## Get in touch
-<img src = "images/envelope-solid.svg"/> zehui.yin@mail.utoronto.ca
+<p class="email">
+	<svg aria-hidden="true" focusable="false" class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="1em" height="1em"><!-- Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="images/envelope-solid.svg"/></svg>
+	</svg> zehui.yin@mail.utoronto.ca
+</p>
 
-<img src = "images/envelope-solid.svg"/> zehuiyin@gmail.com
+<p class="email">
+	<svg aria-hidden="true" focusable="false" class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="1em" height="1em"><!-- Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="images/envelope-solid.svg"/></svg>
+	</svg> zehuiyin@gmail.com
+</p>
 
-<img src = "images/location-dot-solid.svg"/> 1265 Military Trail, Scarborough, ON M1C 1A4
+<p class="location">
+	<svg aria-hidden="true" focusable="false" class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="1em" height="1em"><!-- Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="images/location-dot-solid.svg"/></svg>
+	</svg> 1265 Military Trail, Scarborough, ON M1C 1A4
+</p>
+
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Location_Map" src="https://zehuiyin.github.io/utsc_location/"></iframe></div>
 <p style="margin-bottom:0.8cm;"></p>
