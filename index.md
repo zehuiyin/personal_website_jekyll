@@ -42,4 +42,4 @@ $$\star$$ Transit & Transportation Equality
 	1265 Military Trail, Scarborough, ON M1C 1A4
 </p>
 
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 50%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -50000px;}</style><div class="embed-container"><iframe width="500" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Location_Map" src="https://zehuiyin.github.io/utsc_location/"></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 50%; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 50%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Location_Map" src="https://zehuiyin.github.io/utsc_location/"></iframe></div>
