@@ -23,11 +23,14 @@ $$\star$$ Cartography & Data Visualization
 $$\star$$ Programming & Automation
 
 $$\star$$ Transit & Transportation Equality
+
 &nbsp;
 &nbsp;
 ## Get in touch
 <i class="fa-regular fa-envelope"></i> zehui.yin@mail.utoronto.ca
+
 <i class="fa-regular fa-envelope"></i> zehuiyin@gmail.com
+
 <i class="fa-solid fa-location-dot"></i> 1265 Military Trail, Scarborough, ON M1C 1A4
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Location_Map" src="https://zehuiyin.github.io/utsc_location/"></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Location_Map" src="https://zehuiyin.github.io/utsc_location/"></iframe></div>
 <p style="margin-bottom:0.8cm;"></p>
