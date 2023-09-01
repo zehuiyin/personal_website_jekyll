@@ -1,5 +1,5 @@
 ---
-title:  "Toronto Transit Commission Real Time Web Map"
+title:  "Toronto Bikeshare Station Info Web Map"
 mathjax: true
 layout: post
 ---
