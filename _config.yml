@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/zehuiyin"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/zehuiyin"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0001-6954-7918"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=IC7pmh0AAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
