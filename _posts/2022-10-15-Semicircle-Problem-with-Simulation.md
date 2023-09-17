@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 ---
 
-![master/images/Semicircle_plot.png](https://zehuiyin.github.io/images/Semicircle_plot.png)
+![master/images/Semicircle_plot.png](../images/Semicircle_plot.png)
 
 This project involved simulating a scenario where four ducks were randomly and independently located in a circular pond. The goal was to determine the probability that all four ducks would be located within the same half of the circle.<!-- readmore -->
 
