@@ -4,7 +4,7 @@ permalink: "/readme/"
 layout: page
 ---
 
-This is Zehui Yin's old personal website. He has stopped updating it. Please visit his new personal website [here](zehuiyin.github.io/).
+This is Zehui Yin's old personal website. He has stopped updating it. Please visit his new personal website [here](https://zehuiyin.github.io/).
 
 ## Layout of the website
 
